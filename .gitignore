@@ -19,5 +19,6 @@ venv.bak/
 #.idea/
 
 .idea/
+/.idea
 
 .DS_Store
